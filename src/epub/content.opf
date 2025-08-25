@@ -33,14 +33,14 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young doctor attempts to turn a mysterious death to his romantic advatage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The cathedral of Wyrchester has adjacent to it a beautiful and ancient garden known locally as “Paradise.” One morning, a man, not known locally, plunges to his death from the cathedral tower into Paradise. Pemberton Bryce, a young doctor freshly fired from the medical practice in the cathedral Close, is called to the scene. Glimpsing the senior doctor who fired him in an agitated state, he quickly calculates how he can turn to his advantage the facts that he alone possesses. And the prize he is determined to win is the beautiful ward of his erstwhile employer.&lt;/p&gt;
+			&lt;p&gt;While the plot of &lt;i&gt;The Paradise Mystery&lt;/i&gt; may not conform wholly to the “rules” that the Detection Club later sought to impose on the crime fiction of the “Golden Age,” &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher&lt;/a&gt; still constructs a satisfying mystery that deepens with each twist of the tale.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5308</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008664868</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
@@ -49,10 +49,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/J._S._Fletcher</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n87819285</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Edward R. Taylor</dc:contributor>
+		<meta property="file-as" refines="#artist">Taylor, Edward R.</meta>
+		<meta property="se:name.person.full-name" refines="#author">Edward Richard Taylor</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edward_R._Taylor</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous</meta>
