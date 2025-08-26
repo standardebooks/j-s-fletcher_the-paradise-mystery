@@ -28,6 +28,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Paradise Mystery</dc:title>
 		<meta property="file-as" refines="#title">Paradise Mystery, The</meta>
+		<meta property="dcterms:alternative" refines="#title">Wrychester Paradise</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
@@ -35,8 +36,8 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A young doctor attempts to turn a mysterious death to his romantic advatage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The cathedral of Wyrchester has adjacent to it a beautiful and ancient garden known locally as “Paradise.” One morning, a man, not known locally, plunges to his death from the cathedral tower into Paradise. Pemberton Bryce, a young doctor freshly fired from the medical practice in the cathedral Close, is called to the scene. Glimpsing the senior doctor who fired him in an agitated state, he quickly calculates how he can turn to his advantage the facts that he alone possesses. And the prize he is determined to win is the beautiful ward of his erstwhile employer.&lt;/p&gt;
-			&lt;p&gt;While the plot of &lt;i&gt;The Paradise Mystery&lt;/i&gt; may not conform wholly to the “rules” that the Detection Club later sought to impose on the crime fiction of the “Golden Age,” &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher&lt;/a&gt; still constructs a satisfying mystery that deepens with each twist of the tale.&lt;/p&gt;
+			&lt;p&gt;The cathedral of Wrychester has adjacent to it a beautiful and ancient garden known locally as “Paradise.” One morning, a man, not known locally, plunges to his death from the cathedral tower into Paradise. Pemberton Bryce, a young doctor freshly fired from the medical practice in the cathedral Close, is called to the scene. Glimpsing the senior doctor who fired him in an agitated state, he quickly calculates how he can turn to his advantage the facts that he alone possesses. And the prize he is determined to win is the beautiful ward of his erstwhile employer.&lt;/p&gt;
+			&lt;p&gt;While the plot of &lt;i&gt;The Paradise Mystery&lt;/i&gt; may not conform wholly to the “rules” that the Detection Club later sought to impose on the crime fiction of the “Golden Age,” &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;&lt;abbr&gt;J. S.&lt;/abbr&gt; Fletcher&lt;/a&gt; still constructs a satisfying mystery that deepens with each twist of the tale.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5308</dc:source>
