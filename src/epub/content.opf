@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-08-27T20:23:15Z</dc:date>
+		<meta property="dcterms:modified">2025-08-27T20:23:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,14 +37,15 @@
 		<meta property="se:subject">Mystery</meta>
 		<dc:description id="description">A young doctor attempts to turn a mysterious death to his romantic advatage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The cathedral of Wrychester has adjacent to it a beautiful and ancient garden known locally as “Paradise.” One morning, a man, not known locally, plunges to his death from the cathedral tower into Paradise. Pemberton Bryce, a young doctor freshly fired from the medical practice in the cathedral Close, is called to the scene. Glimpsing the senior doctor who fired him in an agitated state, he quickly calculates how he can turn to his advantage the facts that he alone possesses. And the prize he is determined to win is the beautiful ward of his erstwhile employer.&lt;/p&gt;
-			&lt;p&gt;While the plot of &lt;i&gt;The Paradise Mystery&lt;/i&gt; may not conform wholly to the “rules” that the Detection Club later sought to impose on the crime fiction of the “Golden Age,” &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;&lt;abbr&gt;J. S.&lt;/abbr&gt; Fletcher&lt;/a&gt; still constructs a satisfying mystery that deepens with each twist of the tale.&lt;/p&gt;
+			&lt;p&gt;The cathedral of Wrychester has adjacent to it a beautiful and ancient garden known locally as “Paradise.” One morning, a man, not known locally, plunges to his death from the cathedral tower into that very garden. Pemberton Bryce, a young doctor freshly fired from the medical practice in the cathedral Close, is called to the scene. Glimpsing the senior doctor who fired him in an agitated state, he quickly calculates how he can turn to his advantage the facts that he alone possesses—and the prize he’s determined to win is the beautiful ward of his erstwhile employer.&lt;/p&gt;
+			&lt;p&gt;While the plot of &lt;i&gt;The Paradise Mystery&lt;/i&gt; may not conform wholly to the rules that the Detection Club later sought to impose on the crime fiction of the Golden Age, &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;&lt;abbr&gt;J. S.&lt;/abbr&gt; Fletcher&lt;/a&gt; still constructs a satisfying mystery that deepens with each twist of the tale.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5308</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008664868</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">78777</meta>
+		<meta property="se:reading-ease.flesch">73.68</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_the-paradise-mystery</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
 		<meta property="file-as" refines="#author">Fletcher, J. S.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Joseph Smith Fletcher</meta>
@@ -73,6 +74,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
