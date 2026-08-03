@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-s-fletcher/the-paradise-mystery</dc:identifier>
 		<dc:date>2025-08-27T20:23:15Z</dc:date>
@@ -36,11 +36,11 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Mystery</meta>
-		<dc:description id="description">A young doctor attempts to turn a mysterious death to his romantic advantage.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young doctor attempts to turn a mysterious death to his romantic advantage.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The cathedral of Wrychester has adjacent to it a beautiful and ancient garden known locally as “Paradise.” One morning, a man, not known locally, plunges to his death from the cathedral tower into that very garden. Pemberton Bryce, a young doctor freshly fired from the medical practice in the cathedral Close, is called to the scene. Glimpsing the senior doctor who fired him in an agitated state, he quickly calculates how he can turn to his advantage the facts that he alone possesses—and the prize he’s determined to win is the beautiful ward of his erstwhile employer.&lt;/p&gt;
 			&lt;p&gt;While the plot of &lt;i&gt;The Paradise Mystery&lt;/i&gt; may not conform wholly to the rules that the Detection Club later sought to impose on the crime fiction of the Golden Age, &lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;&lt;abbr&gt;J. S.&lt;/abbr&gt; Fletcher&lt;/a&gt; still constructs a satisfying mystery that deepens with each twist of the tale.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5308</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/008664868</dc:source>
